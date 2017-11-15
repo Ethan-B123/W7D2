@@ -1,9 +1,9 @@
 
 
-#root {
+#content {
   display: flex;
   justify-content: center;
-  background-color: #fff;
+  background-color: #abcdef;
   border: 1px solid #ddd;
   margin: 5px;
   padding: 5px;
@@ -15,7 +15,8 @@ li {
   margin: 5px;
   padding: 5px;
   border: 1px solid #ddd;
-  background-color: #eee;
+  background-color: black;
+  color: white;
   border-radius: 5px;
 }
 
